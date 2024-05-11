@@ -1,0 +1,5 @@
+using android studio 
+gradle setup: setting => Build, Execution, Deployment => Build Tools => Gradle
+You can find the gradle files in https://gradle.org/
+gradle jdk :11
+emulator: Pixel 6 API 29 recommended
